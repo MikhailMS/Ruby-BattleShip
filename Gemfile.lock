@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    battle (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.3)
+    text-table (1.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  battle!
+  bundler (~> 1.7)
+  colorize
+  text-table
