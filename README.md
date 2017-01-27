@@ -26,7 +26,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run as usual Ruby programm either in console or IDLE
 
 ## Contributing
 
